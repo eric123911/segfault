@@ -6,4 +6,4 @@ echo "## fonction pour annoncer le saigue-faulte
 source ~/.segfault/resrc/catcher.zsh" >> ~/.zshrc
 sleep 1
 echo "IMPORTATION TERMINÉE.."
-echo "Veuillez redémarrer votre Terminal :)"
+echo "Veuillez maintenant redémarrer votre Terminal pour que celui-ci détecte vos segfaults :)"
