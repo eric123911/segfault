@@ -5,7 +5,7 @@
 #### avec curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/eric123911/segfault/master/install.sh)
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/eric123911/segfault/master/install.sh)"
 ```
 
 #### avec wget
